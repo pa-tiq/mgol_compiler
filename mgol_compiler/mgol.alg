@@ -15,7 +15,7 @@ inicio
 			entao
 			escreva "B esta entre 2 e 4";
 		fimse
-	fimse {81u381u21hdscskbasbdhabdkasbdad1301230-23971786(!&@#&^#&*!&#*#()}}
+	fimse {81u381u21hdscskbasbdhabdkasbdad1301230-23971786(!&@#&^#&*!&#*#()}
 	B<-B+1;
 	B<-B+2;
 	B<-B+3;
