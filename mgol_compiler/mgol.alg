@@ -19,7 +19,7 @@ inicio
 	B<-B+1;
 	B<-B+2;
 	B<-B+3;
-	D<-B;
+	D<- B;
 	C<-50.2E-3;
 	escreva "\nB=\n";
 	escreva D;
