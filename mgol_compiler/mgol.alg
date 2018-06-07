@@ -3,13 +3,13 @@ inicio
 		A lit;
 		B int;
 		D int;
-		C real#;
+		C real;
 	varfim;
 	escreva "Digite B";
 	leia B;
-	escreva "Digite A:";
+	escreva "Digite A:"
 	leia A;
-	se(B>A)
+	se(BA)
 		entao
 		se(B<=4)
 			entao
