@@ -3,7 +3,7 @@ inicio
 		A lit;
 		B int;
 		D int;
-		C real;
+		C real#;
 	varfim;
 	escreva "Digite B";
 	leia B;
