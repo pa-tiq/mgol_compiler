@@ -7,11 +7,11 @@ inicio
 	varfim;
 	escreva "Digite B";
 	leia B;
-	escreva "Digite A:"
+	escreva "Digite A:";
 	leia A;
-	se(BA)
+	se(B<A)
 		entao
-		se(B<=4)
+		se(B<=A)
 			entao
 			escreva "B esta entre 2 e 4";
 		fimse
