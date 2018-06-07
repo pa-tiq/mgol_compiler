@@ -1,6 +1,6 @@
 inicio
 	varinicio
-		A lit;
+		A lit
 		B int;
 		D int;
 		C real;
@@ -20,7 +20,7 @@ inicio
 	B<-B+2;
 	B<-B+3;
 	D<-B;
-	C<-50.2E-3
+	C<-50.2E-3;
 	escreva "\nB=\n";
 	escreva D;
 	escreva "\n";
