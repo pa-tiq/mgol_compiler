@@ -1,6 +1,6 @@
 inicio
 	varinicio
-		A lit;
+		lit A lit;
 		B int;
 		D int;;;;
 		C real;
@@ -11,7 +11,7 @@ inicio
 	leia A;
 	se(B<A)
 		entao entao
-		se(B<=A)
+		se(B<=A))
 			entao
 			escreva "B esta entre 2 e 4";
 		fimse
