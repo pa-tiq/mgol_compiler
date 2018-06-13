@@ -1,4 +1,4 @@
-inicio
+inicio {osaokdaopsdasi}
 	varinicio
 		A lit;
 		B int;
@@ -9,9 +9,9 @@ inicio
 	leia B;
 	escreva "Digite A:";
 	leia A;
-	sse(B<A)
+	se(B<A)
 		entao
-		se(B<=A)
+		se(B<=A))
 			entao
 			escreva "B esta entre 2 e 4";
 		fimse
