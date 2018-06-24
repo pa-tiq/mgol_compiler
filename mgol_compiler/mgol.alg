@@ -5,7 +5,7 @@ inicio {osaokdaopsdasi}
 		D int;
 		C real;
 	varfim;
-	escreva "Digite B";
+	escreva "Digite B:";
 	leia B;
 	escreva "Digite A:";
 	leia A;
