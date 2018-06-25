@@ -9,9 +9,9 @@ inicio {osaokdaopsdasi}
 	leia B;
 	escreva "Digite A:";
 	leia A;
-	se(B<A)
+	se(B>2)
 		entao
-		se(B<=A)
+		se(B<=4)
 			entao
 			escreva "B esta entre 2 e 4";
 		fimse
