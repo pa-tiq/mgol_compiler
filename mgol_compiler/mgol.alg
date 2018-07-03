@@ -19,12 +19,12 @@ inicio {osaokdaopsdasi}
 	B<-B+4;
 	B<-B+2;
 	B<-B+3;
-	D<-B;
+	D<-A;
 	C<-50.2E-3;
 	escreva "\nB=\n";
 	escreva D;
 	escreva "\n";
-	escreva C;
+	escreva E;
 	escreva "\n";
 	escreva A;
 fim
