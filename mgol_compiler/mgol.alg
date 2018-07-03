@@ -13,18 +13,22 @@ inicio {osaokdaopsdasi}
 		entao
 		se(B<=4)
 			entao
-			escreva "B esta entre 2 e 4";
+			escreva "B esta entre 2 e 4";				
+			se(B=3)
+				entao
+				escreva "B igual a 3";
+			fimse				
 		fimse
 	fimse {81u381u21hdscskbasbdhabdkasbdad1301230-23971786(!&@#&^#&*!&#*#()}
 	B<-B+4;
 	B<-B+2;
 	B<-B+3;
 	D<-A;
-	C<-50.2E-3;
+	C<-50.2;
 	escreva "\nB=\n";
 	escreva D;
 	escreva "\n";
-	escreva E;
+	escreva B;
 	escreva "\n";
 	escreva A;
 fim
