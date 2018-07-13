@@ -3,7 +3,7 @@ inicio {osaokdaopsdasi}
 		A lit;
 		B int;
 		D int;
-		C real;
+		C lit;
 	varfim;
 	escreva "Digite B:";
 	leia B;
@@ -20,11 +20,11 @@ inicio {osaokdaopsdasi}
 	B<-B+2;
 	B<-B+3;
 	D<-A;
-	C<-50.2E-3;
+	C<-50.2;
 	escreva "\nB=\n";
 	escreva D;
 	escreva "\n";
-	escreva E;
+	escreva B;
 	escreva "\n";
 	escreva A;
 fim

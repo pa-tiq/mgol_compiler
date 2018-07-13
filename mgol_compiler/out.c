@@ -5,7 +5,7 @@ void main(void)
 	literal A;
 	int B;
 	int D;
-	double C;
+	literal C;
 	int T0;
 	int T1;
 	int T2;
@@ -32,11 +32,11 @@ void main(void)
 	T4 = B+3;
 	B = T4;
 	D = A;
-	C = 50.2E-3;
+	C = 50.2;
 	printf("\nB=\n");
 	printf("%d", D);
 	printf("\n");
-	printf("%lf", C);
+	printf("%d", B);
 	printf("\n");
 	printf("%s", A);
 }
