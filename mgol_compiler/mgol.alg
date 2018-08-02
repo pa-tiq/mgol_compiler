@@ -19,7 +19,7 @@ inicio {osaokdaopsdasi}
 	B<-B+4;
 	B<-B+2;
 	B<-B+3;
-	D<-A;
+	D<-B;
 	C<-50.2;
 	escreva "\nB=\n";
 	escreva D;
