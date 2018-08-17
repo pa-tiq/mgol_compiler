@@ -1,6 +1,6 @@
 inicio {osaokdaopsdasi}
 	varinicio
-		A lit;
+		{A lit;}
 		B int;
 		D int;
 		C lit;
