@@ -1,9 +1,9 @@
-inicio {osaokdaopsdasi}
+inicio
 	varinicio
-		{A lit;}
+		A lit;
 		B int;
 		D int;
-		C lit;
+		C double;
 	varfim;
 	escreva "Digite B:";
 	leia B;
@@ -15,7 +15,7 @@ inicio {osaokdaopsdasi}
 			entao
 			escreva "B esta entre 2 e 4";
 		fimse
-	fimse {81u381u21hdscskbasbdhabdkasbdad1301230-23971786(!&@#&^#&*!&#*#()}
+	fimse
 	B<-B+4;
 	B<-B+2;
 	B<-B+3;
