@@ -4,8 +4,8 @@ void main(void)
 {
 	literal A;
 	int B;
+	double C;
 	int D;
-	literal C;
 	int T0;
 	int T1;
 	int T2;
@@ -31,7 +31,7 @@ void main(void)
 	B = T3;
 	T4 = B+3;
 	B = T4;
-	D = A;
+	D = B;
 	C = 50.2;
 	printf("\nB=\n");
 	printf("%d", D);

@@ -2,8 +2,8 @@ inicio
 	varinicio
 		A lit;
 		B int;
-		D int;
-		C double;
+		C real;
+		D int;		
 	varfim;
 	escreva "Digite B:";
 	leia B;
