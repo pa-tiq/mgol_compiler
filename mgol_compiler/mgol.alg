@@ -18,13 +18,13 @@ inicio
 	fimse
 	B<-B+4;
 	B<-B+2;
-	B<-B+;
+	B<-B+D;
 	D<-B;
-	C<-50.;
+	C<-50.0;
 	escreva "\nB=\n";
 	escreva D;
 	escreva "\n";
 	escreva B;
 	escreva "\n";
-	escreva A;
+	escrev A;
 fim
