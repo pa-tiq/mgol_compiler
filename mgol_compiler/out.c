@@ -19,7 +19,7 @@ void main(void)
 	T0 = B>2;
 	if ( T0 )
 	{
-		T1 = B<=4;
+		T1 = 0<=4;
 		if ( T1 )
 		{
 			printf("B esta entre 2 e 4");
